@@ -1,2 +1,3 @@
 # 100DaysPython-Bootcamp
-Code of the exercises of the course "100 Days of Code: The Complete Python Pro Bootcamp for 2022" from Udemy
+
+Code of the exercises of the course ["100 Days of Code: The Complete Python Pro Bootcamp for 2022" from Udemy](https://udemy.com/course/100-days-of-code/)
