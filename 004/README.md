@@ -1,10 +1,10 @@
-# Day 4
+# Day 4 - Rock, paper, scissors
 
-Task list
+![Screen](screenshot.png)
+
+## Task list
 
 - Randomisation
 - Python List
 - Modules
 - Rock paper scissors Project
-
-![Screen](screenshot.png)

@@ -1,9 +1,9 @@
-# Day 6
+# Day 6 - Reeborg's World Maze
 
-Task list
+![Screen](screenshot.png)
+
+## Task list
 
 - Functions
 - Code Blocks
 - While Loops
-
-![Screen](screenshot.png)

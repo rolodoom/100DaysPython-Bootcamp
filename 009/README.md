@@ -1,8 +1,8 @@
-# Day 9
+# Day 9 - Secret Auction
 
-Task list
+![Screen](screenshot.png)
+
+## Task list
 
 - Dictionaries
 - Nesting
-
-![Screen](screenshot.png)

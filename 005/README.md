@@ -1,7 +1,7 @@
-# Day 5
-
-Task list
-
-- Python Loops
+# Day 5 - Password Generator
 
 ![Screen](screenshot.png)
+
+## Task list
+
+- Python Loops

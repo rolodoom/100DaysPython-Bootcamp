@@ -1,7 +1,7 @@
-# Day 7
-
-Task list
-
-- Hangman Game
+# Day 7 - The Hangman
 
 ![Screen](screenshot.png)
+
+## Task list
+
+- Hangman Game
