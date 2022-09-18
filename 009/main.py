@@ -1,9 +1,9 @@
 #######################################
 # CLASS PROJECT
-# Secret Bid
+# Secret Auction
 #######################################
 
-# Day 9 - Secret Bid  #100DaysOfCode #100DaysOfCodePython #Python #Bootcamp
+# Day 9 - 💰 Secret Auction 💰  #100DaysOfCode #100DaysOfCodePython #Python #Bootcamp
 
 from auction_data import *
 
