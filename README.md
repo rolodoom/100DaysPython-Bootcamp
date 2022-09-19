@@ -13,3 +13,4 @@ Code of the exercises of the course ["100 Days of Code: The Complete Python Pro 
 - Day 7 - [The Hangman](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/007)
 - Day 8 - [Caesar Cypher](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/008)
 - Day 9 - [Secret Auction](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/009)
+- Day 10 - [Calculator](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/010)
