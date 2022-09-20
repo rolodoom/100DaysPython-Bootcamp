@@ -1,4 +1,4 @@
-# Day 11 - Blackjack Capstone
+# Day 11 - Blackjack
 
 ![Screen](screenshot.png)
 
