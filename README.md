@@ -15,3 +15,4 @@ Code of the exercises of the course ["100 Days of Code: The Complete Python Pro 
 - Day 9 - [Secret Auction](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/009)
 - Day 10 - [Calculator](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/010)
 - Day 11 - [Blackjack](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/011)
+- Day 12 - [Guessing Number](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/012)
