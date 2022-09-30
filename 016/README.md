@@ -1,4 +1,4 @@
-# Day 16 - {Project Name}
+# Day 16 - Coffee Machine - OOP
 
 ![Screen](screenshot.png)
 

@@ -1,6 +1,6 @@
 #######################################
 # CLASS PROJECT
-# Coffee Machine OOP
+# Coffee Machine - OOP
 #######################################
 
 # Day 16 - ☕ The Coffee Machine - #OOP ☕ #100DaysOfCode #100DaysOfCodePython #Python #Bootcamp #ObjectOrientedProgramming
