@@ -20,3 +20,4 @@ Code of the exercises of the course ["100 Days of Code: The Complete Python Pro 
 - Day 14 - [Higher Lower Game](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/014)
 - Day 15 - [The Coffee Machine](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/015)
 - Day 16 - [The Coffee Machine - OOP](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/016)
+- Day 17 - [The Trivia Game - OOP](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/017)
