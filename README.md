@@ -23,3 +23,4 @@ Code of the exercises of the course ["100 Days of Code: The Complete Python Pro 
 - Day 17 - [The Trivia Game - OOP](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/017)
 - Day 18 - [Dot Art with Turtle](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/018)
 - Day 19 - [The Turtle Race](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/019)
+- Day 20 - [The Snake Game [Part 1]](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/020)
