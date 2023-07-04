@@ -18,8 +18,9 @@ with open("./Input/Names/invited_names.txt") as names_file:
     names = names_file.readlines()
 
 for name in names:
+    stripped_name = name.strip()
     # 2. Replaces the [name] placeholder with the actual name.
-    letter = starting_letter.replace(PLACEHOLDER, name.strip())
+    new_letter = starting_letter.replace(PLACEHOLDER, stripped_name)
     # 3. Save the letters in the dolder "ReadyToSend".
-    with open(f"./Output/ReadyToSend/letter_for_{name}.txt", mode="w") as file:
-        file.write(letter)
+    with open(f"./Output/ReadyToSend/letter_for_{stripped_name}.txt", mode="w") as file:
+        file.write(new_letter)
