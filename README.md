@@ -25,7 +25,7 @@ Code of the exercises of the course ["100 Days of Code: The Complete Python Pro 
 - Day 19 - [The Turtle Race](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/019)
 - Day 20 - [The Snake Game [Part 1]](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/020)
 - Day 21 - [The Snake Game [Part 2]](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/021)
+  - Day 24.1 - [The Snake Game [Part 3 - Add High Score]](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/024-1)
 - Day 22 - [Pong Game](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/022)
 - Day 23 - [The Turtle Crossing](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/023)
-- Day 24.1 - [The Snake Game [Part 3 - Add High Score]](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/024-1)
 - Day 24 - [Mail Merge Challenge](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/024)
