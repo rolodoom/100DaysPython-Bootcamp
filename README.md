@@ -29,3 +29,4 @@ Code of the exercises of the course ["100 Days of Code: The Complete Python Pro 
 - Day 22 - [Pong Game](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/022)
 - Day 23 - [The Turtle Crossing](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/023)
 - Day 24 - [Mail Merge Challenge](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/024)
+- Day 24 - [U.S. States Game](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/025)
