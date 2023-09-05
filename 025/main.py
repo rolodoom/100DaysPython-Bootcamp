@@ -37,9 +37,7 @@ while len(correct_guesses) < len(all_states):
 
     # Exit Game
     if answer_state == "Exit":
-        missing_states = [
-            s for s in all_states if not any(xs in s for xs in correct_guesses)
-        ]
+        missing_states = [state for state in all_states if state not in correct_guesses]
         # States to learn
         data_dict = {
             "Learn State": missing_states,
