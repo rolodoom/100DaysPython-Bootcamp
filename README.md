@@ -31,3 +31,4 @@ Code of the exercises of the course ["100 Days of Code: The Complete Python Pro 
 - Day 24 - [Mail Merge Challenge](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/024)
 - Day 25 - [U.S. States Game](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/025)
 - Day 26 - [NATO Alphabet](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/026)
+- Day 27 - [Miles to Kilometers converter](https://github.com/rolodoom/100DaysPython-Bootcamp/tree/main/027)
